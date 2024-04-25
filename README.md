@@ -1,0 +1,103 @@
+# Qt QML Toolkit
+
+A curated list of resources referring to Qt/QML development.
+
+## GUI
+
+### Theme
+
+- [Qt-Advanced-Stylesheets](https://github.com/githubuser0xFFFF/Qt-Advanced-Stylesheets) - Advanced Stylesheets with Theming Support for Qt
+
+- [qt-material](https://github.com/UN-GCPDS/qt-material) - Material inspired stylesheet for PySide2, PySide6, PyQt5 and PyQt6
+
+- [QtVSCodeStyle](https://github.com/5yutan5/QtVSCodeStyle) - VS Code Style for PySide and PyQt.
+
+- [QDarkStyleSheet](https://github.com/ColinDuquesnoy/QDarkStyleSheet) - A dark style sheet for QtWidgets application
+
+- [PyQtDarkTheme](https://github.com/5yutan5/PyQtDarkTheme) - A flat dark theme for PySide and PyQt.
+
+### Component
+
+- [QRCodeGenerator](https://github.com/gil9red/QRCodeGenerator) - QRCode generator (c++/Qt #gui)
+
+- [mayo](https://github.com/fougue/mayo) - 3D CAD viewer and converter based on Qt + OpenCascade
+
+- [libQGLViewer](https://github.com/GillesDebunne/libQGLViewer) - libQGLViewer is an open source C++ library based on Qt that eases the creation of OpenGL 3D viewers.
+
+- [Qt-Advanced-Docking-System](https://github.com/mfreiholz/Qt-Advanced-Docking-Systemr) - Advanced Docking System for Qt
+
+- [SARibbon](https://github.com/czyt1988/SARibbon) - Ribbon Control for Qt
+
+- [qdia](https://github.com/sunderme/qdia) - Simple schematic/diagram editor
+
+- [BlockMod](https://github.com/ghorwin/BlockMod) - A C++ programming library (based on Qt) for graphical block modeling, with graphical connection editing and serialization of the block schematics.
+
+- [nodeeditor](https://github.com/paceholder/nodeeditor) - Qt Node Editor. Dataflow programming framework
+
+### UX
+
+- [Modern_GUI_PyDracula_PySide6_or_PyQt6](https://github.com/Wanderson-Magalhaes/Modern_GUI_PyDracula_PySide6_or_PyQt6)
+
+- [qt-material-widgets](https://github.com/laserpants/qt-material-widgets) - Qt widgets-based implementation of the Material Design specification.
+
+- [FluentUI](https://github.com/zhuzichu520/FluentUI) - FluentUI for QML
+
+- [CppQtFluentUi888](https://github.com/mowangshuying/CppQtFluentUi888) - FluentUI For Cpp Qt
+
+- [Material-Qt](https://github.com/MarkoStanojevic12/Material-Qt) - A fully custom QML library built on the Material design scheme
+
+## Utils
+
+- [FigmaQML](https://github.com/mmertama/FigmaQML) - Converts Figma designs to QML/QtQuick
+
+- [QSimpleUpdater](https://github.com/alex-spataru/QSimpleUpdater) - Updater system for Qt applications
+
+- [GammaRay](https://github.com/KDAB/GammaRay) - GammaRay is a tool to poke around in a Qt-application and also to manipulate the application to some extent.
+
+- [aqt-stylesheets](https://github.com/Ableton/aqt-stylesheets) - Apply CSS style sheets to QML applications
+
+- [QtAutoUpdater](https://github.com/Skycoder42/QtAutoUpdater) - A Qt library to automatically check for updates and install them
+
+- [MTuner](https://github.com/RudjiGames/MTuner) - MTuner is a C/C++ memory profiler and memory leak finder for Windows, PlayStation 4 and 3, Android and other platforms
+
+- [breakpad](https://chromium.googlesource.com/breakpad/breakpad) - A set of client and server components which implement a crash-reporting system.
+
+- [crashpad](https://chromium.googlesource.com/crashpad/crashpad) - Crashpad is a crash-reporting system.
+
+## Serialization
+
+- [json](https://github.com/nlohmann/json) - JSON for Modern C++
+
+- [tinyxml2](https://github.com/leethomason/tinyxml2) - TinyXML2 is a simple, small, efficient, C++ XML parser that can be easily integrated into other programs.
+
+- [pugixml](https://github.com/zeux/pugixml) - Light-weight, simple and fast XML parser for C++ with XPath support
+
+## Http
+
+- [cpp-httplib](https://github.com/yhirose/cpp-httplib) - A C++ header-only HTTP/HTTPS server and client library
+
+- [asio2](https://github.com/zhllxt/asio2) - Header only c++ network library, based on asio,support tcp,udp,http,websocket,rpc,ssl,icmp,serial_port,socks5.
+
+## ORM
+
+- [sqlite_orm](https://github.com/fnc12/sqlite_orm) - SQLite ORM light header only library for modern C++
+
+## Architecture
+
+- [tdesktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app
+
+- [MuseScore](https://github.com/musescore/MuseScore) - MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!
+
+- [tiled](https://github.com/mapeditor/tiled) - Flexible level editor
+
+- [tomviz](https://github.com/OpenChemistry/tomviz) - Cross platform, open source application for the processing, visualization, and analysis of 3D tomography data
+
+- [obs-studio](https://github.com/obsproject/obs-studio) - Free and open source software for live streaming and screen recording
+
+- [qgroundcontrol](https://github.com/mavlink/qgroundcontrol) - Cross-platform ground control station for drones (Android, iOS, Mac OS, Linux, Windows)
+
+- [LibrePCB](https://github.com/LibrePCB/LibrePCB) - A powerful, innovative and intuitive EDA suite for everyone!
+
+- [LibreCAD](https://github.com/LibreCAD/LibreCAD.git) - LibreCAD is a cross-platform 2D CAD program written in C++17. It can read DXF/DWG files and can write DXF/PDF/SVG files. It supports point/line/circle/ellipse/parabola/spline primitives. The user interface is highly customizable, and has dozens of translations.
+
+- [qcad](https://github.com/qcad/qcad) - QCAD - The Open Source 2D CAD. QCAD is a cross-platform CAD solution for Windows, macOS and Linux. It supports the DXF format and optionally the DWG format (through a proprietary plugin).
