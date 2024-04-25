@@ -2,9 +2,26 @@
 
 A curated list of resources referring to Qt/QML development.
 
+- [Qt QML Toolkit](#Qt-QML-Toolkit)
+
+  - [GUI](#GUI)
+
+    - [StyleSheet](#StyleSheet)
+    - [Component](#Component)
+    - [UI](#UI)
+    - [Introspection](#Introspection)
+    - [Updater](#Updater)
+    - [Utils](#Utils)
+
+  - [Troubleshooting](#Troubleshooting)
+  - [Serialization](#Serialization)
+  - [Http](#Http)
+  - [ORM](#ORM)
+  - [Software](#Software)
+
 ## GUI
 
-### Theme
+### StyleSheet
 
 - [Qt-Advanced-Stylesheets](https://github.com/githubuser0xFFFF/Qt-Advanced-Stylesheets) - Advanced Stylesheets with Theming Support for Qt
 
@@ -34,7 +51,7 @@ A curated list of resources referring to Qt/QML development.
 
 - [nodeeditor](https://github.com/paceholder/nodeeditor) - Qt Node Editor. Dataflow programming framework
 
-### UX
+### UI
 
 - [Modern_GUI_PyDracula_PySide6_or_PyQt6](https://github.com/Wanderson-Magalhaes/Modern_GUI_PyDracula_PySide6_or_PyQt6)
 
@@ -46,17 +63,23 @@ A curated list of resources referring to Qt/QML development.
 
 - [Material-Qt](https://github.com/MarkoStanojevic12/Material-Qt) - A fully custom QML library built on the Material design scheme
 
-## Utils
-
-- [FigmaQML](https://github.com/mmertama/FigmaQML) - Converts Figma designs to QML/QtQuick
-
-- [QSimpleUpdater](https://github.com/alex-spataru/QSimpleUpdater) - Updater system for Qt applications
+### Introspection
 
 - [GammaRay](https://github.com/KDAB/GammaRay) - GammaRay is a tool to poke around in a Qt-application and also to manipulate the application to some extent.
 
-- [aqt-stylesheets](https://github.com/Ableton/aqt-stylesheets) - Apply CSS style sheets to QML applications
+### Updater
+
+- [QSimpleUpdater](https://github.com/alex-spataru/QSimpleUpdater) - Updater system for Qt applications
 
 - [QtAutoUpdater](https://github.com/Skycoder42/QtAutoUpdater) - A Qt library to automatically check for updates and install them
+
+### Utils
+
+- [FigmaQML](https://github.com/mmertama/FigmaQML) - Converts Figma designs to QML/QtQuick
+
+- [aqt-stylesheets](https://github.com/Ableton/aqt-stylesheets) - Apply CSS style sheets to QML applications
+
+## Troubleshooting
 
 - [MTuner](https://github.com/RudjiGames/MTuner) - MTuner is a C/C++ memory profiler and memory leak finder for Windows, PlayStation 4 and 3, Android and other platforms
 
@@ -82,7 +105,7 @@ A curated list of resources referring to Qt/QML development.
 
 - [sqlite_orm](https://github.com/fnc12/sqlite_orm) - SQLite ORM light header only library for modern C++
 
-## Architecture
+## Software
 
 - [tdesktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app
 
