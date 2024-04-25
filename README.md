@@ -17,6 +17,7 @@ A curated list of resources referring to Qt/QML development.
   - [Serialization](#Serialization)
   - [Http](#Http)
   - [ORM](#ORM)
+  - [LOGGING](#LOGGING)
   - [Software](#Software)
 
 ## GUI
@@ -105,6 +106,12 @@ A curated list of resources referring to Qt/QML development.
 
 - [sqlite_orm](https://github.com/fnc12/sqlite_orm) - SQLite ORM light header only library for modern C++
 
+## LOGGING
+
+- [spdlog](https://github.com/gabime/spdlog) - Fast C++ logging library.
+
+- [Log4Qt](https://github.com/MEONMedical/Log4Qt) - Logging for the Qt cross-platform application framework
+
 ## Software
 
 - [tdesktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app
@@ -124,3 +131,5 @@ A curated list of resources referring to Qt/QML development.
 - [LibreCAD](https://github.com/LibreCAD/LibreCAD.git) - LibreCAD is a cross-platform 2D CAD program written in C++17. It can read DXF/DWG files and can write DXF/PDF/SVG files. It supports point/line/circle/ellipse/parabola/spline primitives. The user interface is highly customizable, and has dozens of translations.
 
 - [qcad](https://github.com/qcad/qcad) - QCAD - The Open Source 2D CAD. QCAD is a cross-platform CAD solution for Windows, macOS and Linux. It supports the DXF format and optionally the DWG format (through a proprietary plugin).
+
+- [TeXstudio ](https://github.com/texstudio-org/texstudio) - TeXstudio is a fully featured LaTeX editor. Our goal is to make writing LaTeX documents as easy and comfortable as possible.
