@@ -52,6 +52,8 @@ A curated list of resources referring to Qt/QML development.
 
 - [nodeeditor](https://github.com/paceholder/nodeeditor) - Qt Node Editor. Dataflow programming framework
 
+- [QMarkdownTextEdit](https://github.com/pbek/qmarkdowntextedit) - A C++ Qt QPlainTextEdit widget with markdown highlighting support and a lot of other extras
+
 ### UI
 
 - [Modern_GUI_PyDracula_PySide6_or_PyQt6](https://github.com/Wanderson-Magalhaes/Modern_GUI_PyDracula_PySide6_or_PyQt6)
@@ -133,3 +135,5 @@ A curated list of resources referring to Qt/QML development.
 - [qcad](https://github.com/qcad/qcad) - QCAD - The Open Source 2D CAD. QCAD is a cross-platform CAD solution for Windows, macOS and Linux. It supports the DXF format and optionally the DWG format (through a proprietary plugin).
 
 - [TeXstudio ](https://github.com/texstudio-org/texstudio) - TeXstudio is a fully featured LaTeX editor. Our goal is to make writing LaTeX documents as easy and comfortable as possible.
+
+- [notes](https://github.com/nuttyartist/notes) - Fast and beautiful note-taking app written in C++. Write down your thoughts.
