@@ -54,6 +54,10 @@ A curated list of resources referring to Qt/QML development.
 
 - [QMarkdownTextEdit](https://github.com/pbek/qmarkdowntextedit) - A C++ Qt QPlainTextEdit widget with markdown highlighting support and a lot of other extras
 
+- [Splash_Screen_With_Login_Pyhton_And_QtQuick](https://github.com/Wanderson-Magalhaes/Splash_Screen_With_Login_Pyhton_And_QtQuick)
+
+- [ready-cpp-qt-qml-js-sqlite-login-android-ios](https://github.com/gkesse/ready-cpp-qt-qml-js-sqlite-login-android-ios) - Develop your application mobile Android - iOS in C++ - Qt - QML - JS - SQLite and create your own système and connexion.
+
 ### UI
 
 - [Modern_GUI_PyDracula_PySide6_or_PyQt6](https://github.com/Wanderson-Magalhaes/Modern_GUI_PyDracula_PySide6_or_PyQt6)
