@@ -19,6 +19,10 @@ A curated list of resources referring to Qt/QML development.
   - [ORM](#ORM)
   - [LOGGING](#LOGGING)
   - [Software](#Software)
+  - [Learning](#Learning)
+    - [Videos](#Videos)
+    - [Books](#Books)
+    - [Blogs](#Blogs)
 
 ## GUI
 
@@ -57,6 +61,8 @@ A curated list of resources referring to Qt/QML development.
 - [Splash_Screen_With_Login_Pyhton_And_QtQuick](https://github.com/Wanderson-Magalhaes/Splash_Screen_With_Login_Pyhton_And_QtQuick)
 
 - [ready-cpp-qt-qml-js-sqlite-login-android-ios](https://github.com/gkesse/ready-cpp-qt-qml-js-sqlite-login-android-ios) - Develop your application mobile Android - iOS in C++ - Qt - QML - JS - SQLite and create your own système and connexion.
+
+- [Fast Food Login](https://github.com/myebstudios/Fast_Food_Login) - This is a test project to exercise what i've learned with QtQuick so far. The app was designed in Figma
 
 ### UI
 
@@ -141,3 +147,19 @@ A curated list of resources referring to Qt/QML development.
 - [TeXstudio ](https://github.com/texstudio-org/texstudio) - TeXstudio is a fully featured LaTeX editor. Our goal is to make writing LaTeX documents as easy and comfortable as possible.
 
 - [notes](https://github.com/nuttyartist/notes) - Fast and beautiful note-taking app written in C++. Write down your thoughts.
+
+- [notes](https://github.com/nuttyartist/notes) - Fast and beautiful note-taking app written in C++. Write down your thoughts.
+
+- [Scrite](https://github.com/teriflix/scrite) - Scrite is an open-source screenwriting app.
+
+## Learning
+
+### Videos
+
+- [CppCon](https://www.youtube.com/@QtStudios) - The Future of Digital Experiences
+
+- [Scythe Studio](https://www.youtube.com/@scythe-studio) - Scythe Studio is a group of software development enthusiasts using Qt QML and C++ technologies.
+
+### Books
+
+### Blogs
