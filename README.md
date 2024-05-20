@@ -156,10 +156,16 @@ A curated list of resources referring to Qt/QML development.
 
 ### Videos
 
-- [CppCon](https://www.youtube.com/@QtStudios) - The Future of Digital Experiences
+- [QtStudios](https://www.youtube.com/@QtStudios) - The Future of Digital Experiences
 
 - [Scythe Studio](https://www.youtube.com/@scythe-studio) - Scythe Studio is a group of software development enthusiasts using Qt QML and C++ technologies.
 
 ### Books
+
+- [Qt6 QML Book](https://github.com/qmlbook/qt6book) - The Qt 6 Book - A book about QML
+
+- [QML Book](https://github.com/qmlbook/qmlbook) - The source code for the upcoming qml book
+
+- [Qt6 QML For Beginners](https://github.com/rutura/Qt6QMLBeginnersBookRelease) - The Community Version of Qt6 QML For Beginners
 
 ### Blogs
