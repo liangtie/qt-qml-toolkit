@@ -12,6 +12,7 @@ A curated list of resources referring to Qt/QML development.
     - [Introspection](#Introspection)
     - [Updater](#Updater)
     - [Utils](#Utils)
+    - [Template](#Template)
 
   - [Troubleshooting](#Troubleshooting)
   - [Serialization](#Serialization)
@@ -92,6 +93,10 @@ A curated list of resources referring to Qt/QML development.
 
 - [aqt-stylesheets](https://github.com/Ableton/aqt-stylesheets) - Apply CSS style sheets to QML applications
 
+### Template
+
+- [QmlAppTemplate](https://github.com/emericg/QmlAppTemplate) - Qt6 / QML application template, with a full set of visual controls, as well as CI setups with build and deploy scripts.
+
 ## Troubleshooting
 
 - [MTuner](https://github.com/RudjiGames/MTuner) - MTuner is a C/C++ memory profiler and memory leak finder for Windows, PlayStation 4 and 3, Android and other platforms
@@ -151,6 +156,10 @@ A curated list of resources referring to Qt/QML development.
 - [notes](https://github.com/nuttyartist/notes) - Fast and beautiful note-taking app written in C++. Write down your thoughts.
 
 - [Scrite](https://github.com/teriflix/scrite) - Scrite is an open-source screenwriting app.
+
+- [LightManager](https://github.com/bubochka14/LightManager) - C++, Qt, QML, CMake, Google Testing, QTest
+
+- [status-desktop](https://github.com/status-im/status-desktop) - Status Desktop client made in Nim & QML
 
 ## Learning
 
