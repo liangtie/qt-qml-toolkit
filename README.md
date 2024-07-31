@@ -65,6 +65,8 @@ A curated list of resources referring to Qt/QML development.
 
 - [Fast Food Login](https://github.com/myebstudios/Fast_Food_Login) - This is a test project to exercise what i've learned with QtQuick so far. The app was designed in Figma
 
+- [Qmlcontrols](https://github.com/mengps/Qmlcontrols) - QtQml 控件 & 实用工具
+
 ### UI
 
 - [Modern_GUI_PyDracula_PySide6_or_PyQt6](https://github.com/Wanderson-Magalhaes/Modern_GUI_PyDracula_PySide6_or_PyQt6)
