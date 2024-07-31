@@ -21,6 +21,7 @@ A curated list of resources referring to Qt/QML development.
   - [LOGGING](#LOGGING)
   - [Software](#Software)
   - [Learning](#Learning)
+    - [Starter](#Starter)
     - [Videos](#Videos)
     - [Books](#Books)
     - [Blogs](#Blogs)
@@ -164,6 +165,10 @@ A curated list of resources referring to Qt/QML development.
 - [status-desktop](https://github.com/status-im/status-desktop) - Status Desktop client made in Nim & QML
 
 ## Learning
+
+### Starter
+
+- [Qt-Examples](https://github.com/xdlg/Qt-Examples) - Minimal examples of Qt concepts.
 
 ### Videos
 
