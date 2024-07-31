@@ -169,3 +169,7 @@ A curated list of resources referring to Qt/QML development.
 - [Qt6 QML For Beginners](https://github.com/rutura/Qt6QMLBeginnersBookRelease) - The Community Version of Qt6 QML For Beginners
 
 ### Blogs
+
+## ⚡ Visitor count
+
+![](https://profile-counter.glitch.me/liangtie/count.svg)
