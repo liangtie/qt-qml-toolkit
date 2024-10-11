@@ -100,6 +100,8 @@ A curated list of resources referring to Qt/QML development.
 
 - [QmlAppTemplate](https://github.com/emericg/QmlAppTemplate) - Qt6 / QML application template, with a full set of visual controls, as well as CI setups with build and deploy scripts.
 
+- [amnezia-client](https://github.com/amnezia-vpn/amnezia-client) - Amnezia VPN Client (Desktop+Mobile)
+
 ## Troubleshooting
 
 - [MTuner](https://github.com/RudjiGames/MTuner) - MTuner is a C/C++ memory profiler and memory leak finder for Windows, PlayStation 4 and 3, Android and other platforms
