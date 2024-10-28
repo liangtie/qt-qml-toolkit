@@ -96,6 +96,8 @@ A curated list of resources referring to Qt/QML development.
 
 - [aqt-stylesheets](https://github.com/Ableton/aqt-stylesheets) - Apply CSS style sheets to QML applications
 
+- [glTF-SDK](https://github.com/microsoft/glTF-SDK) - glTF-SDK is a C++ Software Development Kit for glTF (GL Transmission Format -https://github.com/KhronosGroup/glTF).
+
 ### Template
 
 - [QmlAppTemplate](https://github.com/emericg/QmlAppTemplate) - Qt6 / QML application template, with a full set of visual controls, as well as CI setups with build and deploy scripts.
@@ -165,6 +167,10 @@ A curated list of resources referring to Qt/QML development.
 - [LightManager](https://github.com/bubochka14/LightManager) - C++, Qt, QML, CMake, Google Testing, QTest
 
 - [status-desktop](https://github.com/status-im/status-desktop) - Status Desktop client made in Nim & QML
+
+- [qtquickeffectmaker](https://github.com/qt/qtquickeffectmaker/tree/dev) - Qt Quick Effect Maker (QQEM) for creating and editing custom shader effects
+
+- [ScreenPlay](https://github.com/kelteseth/ScreenPlay) - See https://gitlab.com/kelteseth/screenplay - Modern, Cross Plattform, Live Wallpaper & Widgets ! Free on Steam : https://store.steampowered.com/app/672870/ScreenPlay/
 
 ## Learning
 
