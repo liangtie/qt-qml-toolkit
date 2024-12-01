@@ -104,9 +104,13 @@ A curated list of resources referring to Qt/QML development.
 
 - [SingleApplication](https://github.com/itay-grudev/SingleApplication) - Replacement of QtSingleApplication for Qt 5 and Qt 6 with support for inter-instance communication.
 
+- [glTF-SDK](https://github.com/microsoft/glTF-SDK) - glTF-SDK is a C++ Software Development Kit for glTF (GL Transmission Format -https://github.com/KhronosGroup/glTF).
+
 ### Template
 
 - [QmlAppTemplate](https://github.com/emericg/QmlAppTemplate) - Qt6 / QML application template, with a full set of visual controls, as well as CI setups with build and deploy scripts.
+
+- [amnezia-client](https://github.com/amnezia-vpn/amnezia-client) - Amnezia VPN Client (Desktop+Mobile)
 
 ## Troubleshooting
 
@@ -183,6 +187,10 @@ A curated list of resources referring to Qt/QML development.
 - [nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: sing-box)
 
 - [ChineseChess](https://github.com/XMuli/ChineseChess) - Cross-platform and online battle platform game based on Qt: Chinese Chess. Also known as:『Xiangqi』『中国象棋』
+
+- [qtquickeffectmaker](https://github.com/qt/qtquickeffectmaker/tree/dev) - Qt Quick Effect Maker (QQEM) for creating and editing custom shader effects
+
+- [ScreenPlay](https://github.com/kelteseth/ScreenPlay) - See https://gitlab.com/kelteseth/screenplay - Modern, Cross Plattform, Live Wallpaper & Widgets ! Free on Steam : https://store.steampowered.com/app/672870/ScreenPlay/
 
 ## Learning
 
