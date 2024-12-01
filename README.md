@@ -68,6 +68,10 @@ A curated list of resources referring to Qt/QML development.
 
 - [Qmlcontrols](https://github.com/mengps/Qmlcontrols) - QtQml 控件 & 实用工具
 
+- [qnanopainter](https://github.com/QUItCoding/qnanopainter) - Library for implementing OpenGL accelerated Qt (Quick) C++ UI components.
+
+- [QuickQanava](https://github.com/cneben/QuickQanava) - 🔗 C++17 network / graph visualization library - Qt6 / QML node editor.
+
 ### UI
 
 - [Modern_GUI_PyDracula_PySide6_or_PyQt6](https://github.com/Wanderson-Magalhaes/Modern_GUI_PyDracula_PySide6_or_PyQt6)
@@ -95,6 +99,10 @@ A curated list of resources referring to Qt/QML development.
 - [FigmaQML](https://github.com/mmertama/FigmaQML) - Converts Figma designs to QML/QtQuick
 
 - [aqt-stylesheets](https://github.com/Ableton/aqt-stylesheets) - Apply CSS style sheets to QML applications
+
+- [AppImageKit](https://github.com/AppImage/AppImageKit) - Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.libera.chat
+
+- [SingleApplication](https://github.com/itay-grudev/SingleApplication) - Replacement of QtSingleApplication for Qt 5 and Qt 6 with support for inter-instance communication.
 
 ### Template
 
@@ -156,13 +164,25 @@ A curated list of resources referring to Qt/QML development.
 
 - [notes](https://github.com/nuttyartist/notes) - Fast and beautiful note-taking app written in C++. Write down your thoughts.
 
-- [notes](https://github.com/nuttyartist/notes) - Fast and beautiful note-taking app written in C++. Write down your thoughts.
-
 - [Scrite](https://github.com/teriflix/scrite) - Scrite is an open-source screenwriting app.
 
 - [LightManager](https://github.com/bubochka14/LightManager) - C++, Qt, QML, CMake, Google Testing, QTest
 
 - [status-desktop](https://github.com/status-im/status-desktop) - Status Desktop client made in Nim & QML
+
+- [zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
+
+- [keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
+
+- [desktop](https://github.com/nextcloud/desktop) - 💻 Desktop sync client for Nextcloud
+
+- [moonlight-qt](https://github.com/moonlight-stream/moonlight-qt) - GameStream client for PCs (Windows, Mac, Linux, and Steam Link)
+
+- [OCTproZ](https://github.com/spectralcode/OCTproZ) - OCTproZ is an open source software for optical coherence tomography processing and visualization.
+
+- [nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: sing-box)
+
+- [ChineseChess](https://github.com/XMuli/ChineseChess) - Cross-platform and online battle platform game based on Qt: Chinese Chess. Also known as:『Xiangqi』『中国象棋』
 
 ## Learning
 
